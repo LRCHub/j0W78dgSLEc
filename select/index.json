@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Thinking of You",
+  "base_artist": "Salasa",
+  "createdAt": "2025-12-09T14:23:35.904342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinking of You",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/01_Thinking_of_You_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thinking Of You",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/02_Thinking_Of_You_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Van (Thinking of You)",
+      "artist": "CunninLynguists feat. Mac Lethal",
+      "has_synced": true,
+      "path": "select/03_Broken_Van_(Thinking_of_You)_CunninLynguists_feat._Mac_Lethal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Broken Van (Thinking of You) (Ft. Mac Lethal)",
+      "artist": "CunninLynguists",
+      "has_synced": true,
+      "path": "select/04_Broken_Van_(Thinking_of_You)_(Ft._Mac_Lethal)_CunninLynguists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thinking Of You - Dimitri From Paris Remix",
+      "artist": "Sister Sledge",
+      "has_synced": false,
+      "path": "select/05_Thinking_Of_You_-_Dimitri_From_Paris_Remix_Sister_Sledge.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thinking Of You (Dimitri From Paris Remix)",
+      "artist": "Sister Sledge",
+      "has_synced": false,
+      "path": "select/06_Thinking_Of_You_(Dimitri_From_Paris_Remix)_Sister_Sledge.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thinking of You",
+      "artist": "George FitzGerald",
+      "has_synced": true,
+      "path": "select/07_Thinking_of_You_George_FitzGerald.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thinking of You",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/08_Thinking_of_You_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thinking Of You",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/09_Thinking_Of_You_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thinking of You",
+      "artist": "喜多郎",
+      "has_synced": false,
+      "path": "select/10_Thinking_of_You_喜多郎.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thinking Of You",
+      "artist": "Kitaro",
+      "has_synced": false,
+      "path": "select/11_Thinking_Of_You_Kitaro.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thinking of You (Baxter Remix)",
+      "artist": "Tesla Boy",
+      "has_synced": false,
+      "path": "select/12_Thinking_of_You_(Baxter_Remix)_Tesla_Boy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thinking of You (Casio Social Club Remix)",
+      "artist": "Tesla Boy",
+      "has_synced": false,
+      "path": "select/13_Thinking_of_You_(Casio_Social_Club_Remix)_Tesla_Boy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thinking of You (MAM Remix)",
+      "artist": "Tesla Boy",
+      "has_synced": false,
+      "path": "select/14_Thinking_of_You_(MAM_Remix)_Tesla_Boy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thinking of You",
+      "artist": "さらさ",
+      "has_synced": false,
+      "path": "select/pl_01_Thinking_of_You_さらさ.txt"
+    }
+  ]
+}
